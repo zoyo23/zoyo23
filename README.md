@@ -2,7 +2,7 @@
 ### Hi there, I'm *Lucas* aka *"Zoyo"* 👋
 ---
 
-- 🔭 I’m currently working on **Banco BMG SA**
+- 🔭 I’m currently working on **Neon Pagamentos S.A.**
 - 🌱 I’m currently learning **Software Architecture / Unit Test**
 - 😄 Pronouns: **He/His** | **Ele/Dele**
 
